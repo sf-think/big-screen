@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {        
+    "resolveJsonModule": true,         
+    "target": "es5",                         
+    "module": "commonjs",    
+    "lib": ["ES2015"],                 
+    "strict": false,                          
+    "esModuleInterop": true,                 
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react"
+  }
+}
